@@ -1,8 +1,10 @@
 # Google Summer of Code - 2019
 
-**Organization** : [TensorFlow](https://www.tensorflow.org/)
+**Organization** : [TensorFlow](https://www.tensorflow.org/) - [TensorFlow Datasets]
 
 **Project Link** : https://summerofcode.withgoogle.com/projects/#6657672118534144
+
+**Mentors** : Marcin Michalski, Etienne Pot, Pierre Ruyssen
 
 ### Pull Requests
 * Link to all my PRs : https://github.com/tensorflow/datasets/pulls/ChanchalKumarMaji
