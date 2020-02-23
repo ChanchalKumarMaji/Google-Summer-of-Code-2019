@@ -5,7 +5,7 @@
 
 **Organization** : [TensorFlow](https://www.tensorflow.org/) - [TensorFlow Datasets]
 
-**Project Link** : https://summerofcode.withgoogle.com/projects/#6657672118534144
+**Project Link** : https://summerofcode.withgoogle.com/archive/2019/projects/6537043688030208/
 
 **Mentors** : Marcin Michalski, Etienne Pot, Pierre Ruyssen
 
