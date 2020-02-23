@@ -1,7 +1,7 @@
 # Google Summer of Code - 2019
 
 ## Certificate
-![Certificate](/Certificate/Certificate.jpg)
+<kbd><img src="https://github.com/ChanchalKumarMaji/Google-Summer-of-Code-2019/blob/master/Certificate/Certificate.jpg" /></kbd>
 
 **Organization** : [TensorFlow](https://www.tensorflow.org/) - [TensorFlow Datasets]
 
